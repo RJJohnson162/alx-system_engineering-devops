@@ -1,3 +1,2 @@
 #!/bin/bash
-path="/root/alx-sysytem_engineering-devops/0x00-shell_basics/0-current_working_directory"
-echo $path
+path="/root/alx-sysytem_engineering-devops/0x00-shell_basics/0-current_working_directory"; echo $path
