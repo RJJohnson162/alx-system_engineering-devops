@@ -1,4 +1,3 @@
 #!/bin/bash
 echo "hello,world"
-
-
+echo "Line 1\r\nLine2" 
