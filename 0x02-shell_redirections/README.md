@@ -6,3 +6,4 @@
 5. Last lines of a file> Display the last 10 lines of /etc/passwd
 6. I'd prefer the first ones actually> isplay the first 10 lines of /etc/passwd
 7. Displaying the 3rd line in iacta file
+8. Saving the current state of the directory
