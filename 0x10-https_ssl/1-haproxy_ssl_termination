@@ -1,3 +1,7 @@
+#!/bin/bash
+# Usage: ./1-world_wide_web <domain> <subdomain>
+# Display information about subdomains.
+
 global
         log /dev/log    local0
         log /dev/log    local1 notice
@@ -35,7 +39,7 @@ defaults
 
 frontend web-frontend
         bind *:80
-  bind *:443 ssl crt /etc/haproxy/cert/www.imagwe.tech.pem
+  bind *:443 ssl crt /etc/haproxy/cert/www.RJJohnson162.tech.pem
         mode http
         default_backend web-backend
 
