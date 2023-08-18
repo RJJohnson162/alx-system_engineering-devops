@@ -13,4 +13,4 @@ if ! grep -qF "$new_key" "$authorized_keys_path"; then
 fi
 
 # Connect to the server
-ssh -i ~/.ssh/school ubuntu@54.160.125.234
+ssh -i ~/.ssh/school ubuntu@54.236.48.11
